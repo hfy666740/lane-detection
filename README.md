@@ -87,6 +87,8 @@ python main.py
 ### 4. 访问界面
 
 运行后在浏览器中打开: http://localhost:7860
+<img width="1596" height="1044" alt="屏幕截图 2026-06-16 141915" src="https://github.com/user-attachments/assets/4a5843a8-3043-42e0-87ba-73c7fecc999a" />
+<img width="1483" height="880" alt="屏幕截图 2026-06-16 141921" src="https://github.com/user-attachments/assets/9102d20e-665d-421a-8da2-2c5319f20ef8" />
 <img width="2295" height="1419" alt="屏幕截图 2026-06-15 085249" src="https://github.com/user-attachments/assets/3b25c3e0-1247-4cbf-8552-0fc8f62d9888" />
 <img width="2022" height="1146" alt="屏幕截图 2026-06-15 085304" src="https://github.com/user-attachments/assets/2a5d211b-c9fa-4efa-ac54-9e094d1c3b86" />
 <img width="2482" height="1413" alt="屏幕截图 2026-06-15 085317" src="https://github.com/user-attachments/assets/5d582449-70a9-46fa-8c3b-6da7e62432dd" />
